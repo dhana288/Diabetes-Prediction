@@ -32,3 +32,6 @@ Age: Age (years)
 
 Outcome: Class variable (0-no or 1-yes)
 
+**ML Model**
+
+Here for prediction we are using logistic regression 
