@@ -6,7 +6,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 
 **Objective**
 
-We will try to build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes or not?
+We will first analyze the data and then try to build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes or not?
 
 **Details about the dataset**
 
